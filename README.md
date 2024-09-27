@@ -1,6 +1,6 @@
-<H3>Name</H3>
-<H3>Register no.</H3>
-<H3>Date</H3>
+<H3>V NAVEENKUMAR</H3>
+<H3>212221230068</H3>
+<H3>27/09/24</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
